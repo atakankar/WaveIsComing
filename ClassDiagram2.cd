@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AuthManager">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCABAAAAAEAAAEAAAAAACAgAEABBAQgAkAAQAgBAgEA=</HashCode>
+      <FileName>Assets\Script\AuthManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuildManager">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgAAAggAEAAAAAAAAAAAAAFAAAAAAAIAAAIAAkA=</HashCode>
+      <FileName>Assets\Script\BuildManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAIAgAAAKAAAAAgAAAAAIQAAAAgAAEAAAAA=</HashCode>
+      <FileName>Assets\Script\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonExtension">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\ButtonExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraControler">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACSAACAAAAAAAAAAACAAAAAAAAAAEAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Script\CameraControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompleteLevel">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACABBACAAhAAAAAAAAAAgAIAIAAAAEAAAAAAABEA=</HashCode>
+      <FileName>Assets\Script\CompleteLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompleteQuest">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\CompleteQuest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DayRewardDatabase">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\DayRewardDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DayRewards">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAQAAAASAEgAAAiACAAAAgAAAASAAAEAAUIAAAAEA=</HashCode>
+      <FileName>Assets\Script\DayRewards.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAgAAAAAAAAABAAAQAAAIABgAAQBQg=</HashCode>
+      <FileName>Assets\Script\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyMovement">
+    <Position X="2.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABBAACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAQAI=</HashCode>
+      <FileName>Assets\Script\EnemyMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAACAAAAAAAAAAAAIAAAAAAAAAAAAAAAAQEAE=</HashCode>
+      <FileName>Assets\Script\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOver">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAQAAAABAAAAAAAAAAIAIAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Script\GameOver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelSelector">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQgAAAAAAACAAgEAQAAAAAEAAAQAAAAEA=</HashCode>
+      <FileName>Assets\Script\LevelSelector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LivesUI">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Script\LivesUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAQyBAAAAAAAAAAAAAEAQQAABAAAAQA=</HashCode>
+      <FileName>Assets\Script\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="matChange">
+    <Position X="9.25" Y="7.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="matChange.skinBuyIndexandBool" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Script\matChange.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CAABRAgAACEAgAAAACAAAIAIQAAAAUAgMAABAAAAAEA=</HashCode>
+      <FileName>Assets\Script\matChange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyUI">
+    <Position X="7.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\MoneyUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node">
+    <Position X="0.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQCgAAACAEACAAAChAAQAAEABAAAEAIAABAEAAAAA=</HashCode>
+      <FileName>Assets\Script\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NodeUI">
+    <Position X="5.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAcAAgAAAAAAAAAAACAAAACAAAAAI=</HashCode>
+      <FileName>Assets\Script\NodeUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenu">
+    <Position X="2.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAAAEABAAAAAAAAAAIAIABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStats">
+    <Position X="4" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAAIAACAAAAAAAAAAAAAACAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Script\PlayerStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quest">
+    <Position X="2.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAEAAEAAACQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Quest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuestGiver">
+    <Position X="4" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAgAgAAAAAAgQgEAAAAACAEEACEAABAEA=</HashCode>
+      <FileName>Assets\Script\QuestGiver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneFader">
+    <Position X="2.25" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACCAEAAAAABAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\SceneFader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop">
+    <Position X="5.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAACACAAAAAAAAAEAQAAAIAAAAAAAAAAACACAAA=</HashCode>
+      <FileName>Assets\Script\Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkinShop">
+    <Position X="7.5" Y="14.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="SkinShop.skinBuyIndexandBool" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Script\SkinShop.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAAgAAAgAAAAAAAQAAAAEAokEAAAAAAAEA=</HashCode>
+      <FileName>Assets\Script\SkinShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkinShopItem">
+    <Position X="5.75" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\SkinShopItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TopOverlay">
+    <Position X="2.25" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\TopOverlay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turret">
+    <Position X="0.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAUAAAAIACIABIAAIEAACAAIAAAAMAAEAgAgEAAGAAA=</HashCode>
+      <FileName>Assets\Script\Turret.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurretBlueprint">
+    <Position X="9.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIAAAAAAAAAIAAAAAAIAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\TurretBlueprint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager">
+    <Position X="9.25" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAAIAAAAAEAAAAAABAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Script\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIPlayOverlay">
+    <Position X="2.25" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAgAAAAAAAAAAAAAAAAAAAAGAAAAQAAABAAAA=</HashCode>
+      <FileName>Assets\Script\UIPlayOverlay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserInterface">
+    <Position X="4" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAgAAgAAAAAAAgAAQIAAAgEAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Script\UserInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserValues">
+    <Position X="5.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAgAAEAAQDAAAQAAAAAAAgA=</HashCode>
+      <FileName>Assets\Script\UserValues.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wave">
+    <Position X="4" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Script\wave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaveSpawner">
+    <Position X="7.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EUQACABAAAAAABAAAAAAAAAQAAACAAAAAABAAAAQAAA=</HashCode>
+      <FileName>Assets\Script\WaveSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaveSpawnerInfinity">
+    <Position X="9.25" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQACABAAAAAABAAAAAAAAAQAAACAAAAAAAAAIAQAAA=</HashCode>
+      <FileName>Assets\Script\WaveSpawnerInfinity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="waypoints">
+    <Position X="5.75" Y="24" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Script\waypoints.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

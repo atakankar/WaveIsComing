@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BuildManager" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgAAAggAEAAAAAAAAAAAAAFAAAAAAAIAAAIAAkA=</HashCode>
+      <FileName>Assets\Script\BuildManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAIAgAAAKAAAAAgAAAAAIQAAAAgAAEAAAAA=</HashCode>
+      <FileName>Assets\Script\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraControler" Collapsed="true">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACSAACAAAAAAAAAAACAAAAAAAAAAEAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Script\CameraControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="16" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAgAAAAAAAAAAAAAQAAAIABgAAQBQg=</HashCode>
+      <FileName>Assets\Script\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyMovement" Collapsed="true">
+    <Position X="17.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABBAACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAQAI=</HashCode>
+      <FileName>Assets\Script\EnemyMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="18.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAIAAAAAAIAAAAAAAAAQAAE=</HashCode>
+      <FileName>Assets\Script\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOver" Collapsed="true">
+    <Position X="13.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAQAAAABAAAAAAAAAAIAIAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Script\GameOver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LivesUI" Collapsed="true">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Script\LivesUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoneyUI" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\MoneyUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node" Collapsed="true">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQCgAAACAEACAAAChAAQAAEABAAAEAIAABAEAAAAA=</HashCode>
+      <FileName>Assets\Script\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NodeUI" Collapsed="true">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAEAAAcAAgAAAAAAAAAAACAAAACAAAAAI=</HashCode>
+      <FileName>Assets\Script\NodeUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStats" Collapsed="true">
+    <Position X="8.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAAIAACAAAAAAAAAAAAAACAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Script\PlayerStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop" Collapsed="true">
+    <Position X="10.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAACACAAAAAAAAAEAQAAAIAAAAAAAAAAACACAAA=</HashCode>
+      <FileName>Assets\Script\Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turret" Collapsed="true">
+    <Position X="20.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAUAAAAIACIABIAAIEAACAAIAAAAMAAEAgAgEAAGAAA=</HashCode>
+      <FileName>Assets\Script\Turret.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TurretBlueprint" Collapsed="true">
+    <Position X="15" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIAAAAAAAAAIAAAAAAIAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\TurretBlueprint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="wave" Collapsed="true">
+    <Position X="1.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Script\wave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaveSpawner" Collapsed="true">
+    <Position X="22.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQQACABAAAAAABAAAAAAAAAQAAACAAAAAABAAAAQAAA=</HashCode>
+      <FileName>Assets\Script\WaveSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="waypoints" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Script\waypoints.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="18" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAgAQAAAAAAQA=</HashCode>
+      <FileName>Assets\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="matChange" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABRAgAAAEAAAAAACAAAIAIAAAAAQAAIAABAAAAAAA=</HashCode>
+      <FileName>Assets\matChange.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenu" Collapsed="true">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAAAEABAAAAAAAAAAIAIABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneFader" Collapsed="true">
+    <Position X="8.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACCAEAAAAABAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\SceneFader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
