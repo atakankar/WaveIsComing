@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1032398294140",
+    "firebase_url": "https://waveiscoming-default-rtdb.firebaseio.com",
+    "project_id": "waveiscoming",
+    "storage_bucket": "waveiscoming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032398294140:android:145283d2abe30bbbe6cdf9",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.WaveIsComing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032398294140-ss2crpt76oqa293jmjbphd7bopume2b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl9JIzRYrepyv0WwFjkb28t_2gnHgD-Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032398294140-ss2crpt76oqa293jmjbphd7bopume2b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

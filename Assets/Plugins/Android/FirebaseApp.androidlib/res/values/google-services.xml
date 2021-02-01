@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://waveiscoming-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1032398294140</string>
+  <string name="google_storage_bucket" translatable="false">waveiscoming.appspot.com</string>
+  <string name="project_id" translatable="false">waveiscoming</string>
+  <string name="google_api_key" translatable="false">AIzaSyBl9JIzRYrepyv0WwFjkb28t_2gnHgD-Rs</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBl9JIzRYrepyv0WwFjkb28t_2gnHgD-Rs</string>
+  <string name="google_app_id" translatable="false">1:1032398294140:android:145283d2abe30bbbe6cdf9</string>
+  <string name="default_web_client_id" translatable="false">1032398294140-ss2crpt76oqa293jmjbphd7bopume2b3.apps.googleusercontent.com</string>
+</resources>
